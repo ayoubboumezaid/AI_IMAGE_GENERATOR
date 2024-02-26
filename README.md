@@ -34,7 +34,7 @@ Welcome to the Flutter Image Generator App, a powerful tool that harnesses the c
 - Imagine AI API Key
 
 ## Support and Contributions
-For any questions, issues, or suggestions, please feel free to contact [your email or GitHub username]. Contributions are highly appreciated, whether in the form of pull requests or issue reports.
+For any questions, issues, or suggestions, please feel free to contact [boumezaid241999@gmail.com]. Contributions are highly appreciated, whether in the form of pull requests or issue reports.
 
 ## License
 [Include your license information]
