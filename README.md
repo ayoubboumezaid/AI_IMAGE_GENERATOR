@@ -9,6 +9,7 @@ Welcome to the Flutter Image Generator App, a powerful tool that harnesses the c
 - **Customizable Prompts:** Tailor your image generation experience by entering your own prompts, opening up endless creative possibilities.
 - **Fast and Efficient:** With the Imagine AI API, image generation is lightning-fast and efficient, providing instant results.
 - **BLoC Architecture:** Implement the BLoC architecture pattern to effectively manage application state and business logic, ensuring scalability and maintainability.
+- **Save Images to Gallery:** Easily save generated images directly to your device's gallery for convenient access and sharing.
 
 ## Getting Started
 1. **Installation:**
@@ -27,14 +28,14 @@ Welcome to the Flutter Image Generator App, a powerful tool that harnesses the c
 4. **Generating Images:**
    - Input your prompt in the provided text field.
    - Tap the generate button to initiate image creation.
-   - Explore and save the generated images as desired.
+   - Explore and save the generated images as desired. Tap the save button to save an image to the device's gallery.
 
 ## Requirements
 - Flutter SDK
 - Imagine AI API Key
 
 ## Support and Contributions
-For any questions, issues, or suggestions, please feel free to contact [boumezaid241999@gmail.com]. Contributions are highly appreciated, whether in the form of pull requests or issue reports.
+For any questions, issues, or suggestions, please feel free to contact [boumezaid241999@gmail.com](mailto:boumezaid241999@gmail.com). Contributions are highly appreciated, whether in the form of pull requests or issue reports.
 
 ## License
-[Include your license information]
+This project is licensed under the [MIT License](licence.txt). For more details, please see the [licence.txt](licence.txt) file.
