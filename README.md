@@ -38,4 +38,4 @@ Welcome to the Flutter Image Generator App, a powerful tool that harnesses the c
 For any questions, issues, or suggestions, please feel free to contact [boumezaid241999@gmail.com](mailto:boumezaid241999@gmail.com). Contributions are highly appreciated, whether in the form of pull requests or issue reports.
 
 ## License
-This project is licensed under the [MIT License](licence.txt). For more details, please see the [licence.txt](licence.txt) file.
+This project is licensed under the [MIT License](licence.txt). 
